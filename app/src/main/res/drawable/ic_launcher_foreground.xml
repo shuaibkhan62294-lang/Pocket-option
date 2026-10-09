@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="1000"
+    android:viewportHeight="1000">
+
+    <!-- Right Bright Azure Circle (centered in 108dp adaptive icon safe zone) -->
+    <path
+        android:fillColor="#1E88FC"
+        android:pathData="M568,318 A182,182 0 1,1 568,682 A182,182 0 1,1 568,318 Z" />
+
+    <!-- Left Royal Blue D-Shape with Bottom-Left Pointer Tail -->
+    <path
+        android:fillColor="#163DAE"
+        android:pathData="M273,318 L412,318 A182,182 0 0,1 412,682 L296,682 L266,715 C256,726 245,719 245,704 L245,346 A28,28 0 0,1 273,318 Z" />
+
+    <!-- Overlapping Lens Intersection -->
+    <path
+        android:fillColor="#113293"
+        android:pathData="M490,335.5 A182,182 0 0,1 490,664.5 A182,182 0 0,1 490,335.5 Z" />
+</vector>
